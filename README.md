@@ -5,7 +5,7 @@ Projeto acadêmico desenvolvido em Java na aula de Segurança da Informação, m
 
 Desenvolvido por:
 
-Douglas Serafim '\n'
+Douglas Serafim
 Gabriel Valeriano
 Guilherme Ravisio
 João Bernardo
